@@ -1,0 +1,16 @@
+Log created
+Running program...
+Try to parse E:\Музыка\Западное\Avatar\2009 - Avatar\03 - Shattered Wings.mp3
+Try to parse E:\Музыка\Западное\Avatar\2009 - Avatar\04 - Reload.mp3
+Try to parse E:\Музыка\Западное\Avatar\2009 - Avatar\05 - Out Of Our Minds.mp3
+Try to parse E:\Музыка\Западное\Avatar\2009 - Avatar\06 - Deeper Down.mp3
+Try to parse E:\Музыка\Беларусь\BN\BN Крок за крокам 2012\BN - 02. Kрок за крокам (Крок за крокам, 2012).mp3
+Try to parse E:\Музыка\Беларусь\BN\BN Крок за крокам 2012\BN - 03. Напрыканцы (Крок за крокам, 2012).mp3
+Try to parse E:\Музыка\Беларусь\BN\BN Крок за крокам 2012\BN - 04. Іншы (Крок за крокам, 2012).mp3
+Try to parse E:\Музыка\Беларусь\BN\BN Крок за крокам 2012\BN - 05. Мы ідзем разам (Крок за крокам, 2012).mp3
+Try to parse E:\Музыка\Беларусь\BN\BN Крок за крокам 2012\BN - 06. Праз туманы (Крок за крокам, 2012).mp3
+Try to parse E:\Разное\test2.mp3
+No tag in E:\Разное\test2.mp3
+Try to parse E:\Музыка\Российское\Ария\5 1991 - Кровь за кровь\06 Aрия - Бесы..mp3
+Try to parse E:\Музыка\Российское\Ария\5 1991 - Кровь за кровь\07 Aрия - Все, Что Было.mp3
+Try to parse E:\Музыка\Российское\Ария\5 1991 - Кровь за кровь\08 Aрия - Следуй За Мной..mp3
